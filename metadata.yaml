@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '4945'
     url: http://www.gutenberg.org/2009/agents/4945
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13232#Stories-of-California
 gutenberg_issued: '2004-08-20'
 gutenberg_type: Text
 identifiers:
